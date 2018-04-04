@@ -1,0 +1,14 @@
+﻿  Main.cpp
+d:\onedrive\classes\third semester\special topics\twomaxproblem\twomax\twomax\TwoMax.h(65): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\twomaxproblem\twomax\twomax\TwoMax.h(80): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\twomaxproblem\twomax\twomax\TwoMax.h(119): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\twomaxproblem\twomax\twomax\TwoMax.h(136): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+d:\onedrive\classes\third semester\special topics\twomaxproblem\twomax\twomax\TwoMax.h(149): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\twomaxproblem\twomax\twomax\TwoMax.h(158): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\twomaxproblem\twomax\twomax\TwoMax.h(182): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\twomaxproblem\twomax\twomax\TwoMax.h(214): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\twomaxproblem\twomax\twomax\TwoMax.h(255): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\onedrive\classes\third semester\special topics\twomaxproblem\twomax\twomax\TwoMax.h(260): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+  Generating code
+  Finished generating code
+  Twomax.vcxproj -> D:\OneDrive\Classes\Third Semester\Special Topics\TwoMaxProblem\Twomax\Release\Twomax.exe
