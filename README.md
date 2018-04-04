@@ -31,5 +31,5 @@ B. Then we modify the fitness value by summing over hamming distance.
 C. While summing over hamming distance we skip identical individuals.
 7. Go back to Tournament Selection
 A. The fitness and population is continued with selection procedure.
-Flow Chart: 
+![alt_text](https://github.com/borguleabhijeet/TwoMaxProblems/blob/master/gen.png)
 
